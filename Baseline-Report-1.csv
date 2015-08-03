@@ -1,0 +1,7 @@
+name,value,filename,key,line,nexus_groupid,nexus_artifactid,nexus_version,nexus_classifier,nexus_type
+crodsdata,au/com/iag/env/data/crods/dcr0001/r48/dcr0001-r48.tgz,etc/puppet/hieradata/nodes/ldb0003.yaml,artifacturi,13,au.com.iag.env.data.crods,dcr0001,r48,,tgz
+occdata,com/opentext/occ-db/10.6/occ-db-10.6.zip,etc/puppet/hieradata/nodes/wsa0003.yaml,artifacturi,42,com.opentext,occ-db,10.6,,zip
+wovrcontainer,1,etc/puppet/hieradata/nodes/ldh0002.yaml,version,22,au.com.iag.di.copper.wovr,wovapp,1,,tar
+wovrcoonfig,1,etc/puppet/hieradata/nodes/ldh0002.yaml,version,41,au.com.iag.di.copper.wovr,WOVR-config,1,,groovy
+claimsdata,au/com/iag/env/data/claimscentre/dcc0001/r50_9/dcc0001-r50_9.dmp,etc/puppet/hieradata/nodes/lor0001.yaml,artifacturi,15,au.com.iag.env.data.claimscentre,dcc0001,r50_9,,dmp
+thunderhead,au/com/iag/env/data/thunderhead/dth0001/r52.1/dth0001-r52.1.dmp,etc/puppet/hieradata/nodes/lor0003.yaml,artifacturi,18,au.com.iag.env.data.thunderhead,dth0001,r52.1,,dmp
